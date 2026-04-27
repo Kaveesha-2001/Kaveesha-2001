@@ -95,7 +95,7 @@
       height="30"
       width="40" />
   </a>
-
+&nbsp;&nbsp;
   <a href="https://github.com/Kaveesha-2001" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
@@ -103,7 +103,7 @@
       height="30"
       width="40" />
   </a>
-
+&nbsp;&nbsp;
   <a href="mailto:athapaththulakmi@gmail.com">
     <img 
       src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"
@@ -111,5 +111,8 @@
       height="30"
       width="40" />
   </a>
-</p><br><br>
+</p>
+<br><br>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
