@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080c14,40:0f1b35,100:1e3a6e&text=Hi%20👋,%20I'm%20Kaveesha%20Athapaththu&fontSize=40&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080c14,40:0f1b35,100:1e3a6e&text=Hi%20👋,%20I'm%20Kaveesha%20Athapaththu&fontSize=45&fontColor=FFFFFF&fontAlignY=42&fontFamily=Alex%20Brush&animation=twinkling" width="100%">
 </p>
 
 <h3 align="center">
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaveesha-2001&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kaveesha-2001&label=Profile%20views&color=0e75b6&style=flat" /><img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
 </p>
 
 <hr>
@@ -84,8 +84,16 @@
   </table>
 </div>
 <br>
+  <br>
+  <hr>
+  
+| ![Kaveeesha's github stats](https://github-readme-stats.vercel.app/api?username=Kaveesha-2001&show_icons=true&theme=tokyonight) | ![Kaveesha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaveesha-2001&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha-2001&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Kaveesha-2001&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<br>
 <hr>
-<h2 align="center">🔗 Connect with me:</h2><br>
+<h2 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>🔗 Connect with me:</h2>  <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaveesha-athapaththu/" target="_blank">
