@@ -4,13 +4,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080c14,40:0f1b35,100:1e3a6e&text=Hi%20👋,%20I'm%20Kaveesha%20Athapaththu&fontSize=45&fontColor=FFFFFF&fontAlignY=42&fontFamily=Alex%20Brush&animation=twinkling" width="100%">
 </p>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" width="3000px" height="100px" />
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" width="2500" height="100px" />
 </div>
 <br/>
 
-<h3 align="center">
+<h2 align="center">
   🚀 Aspiring Data Scientist | 🔍 Data Analyst | 🎓 Computer Science Undergraduate
-</h3>
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaveesha-2001&label=Profile%20views&color=0e75b6&style=flat" /><img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
