@@ -17,9 +17,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h2>
 
-<!-- Image first so it floats to the right -->
-  <img align="right" width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 <ul>
   <li>🎓 Computer Science Undergraduate at Saegis Campus</li><br>
   <li>💡 Passionate about extracting insights from data and building Predictive Models</li><br>
@@ -30,10 +27,12 @@
   <li>🤝 Open to collaboration on data-driven projects and open-source contributions</li>
 </ul>
 <br clear="right" />
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?color=FF0000&height=30&lines=Continuous+Learning..."
-    alt="Continuous Learning typing banner" />
+    alt="Continuous Learning typing banner" />  
+  <img align="center" width="45%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!------------------------- Languages & Tools Section ------------------------>
