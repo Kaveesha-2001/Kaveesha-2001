@@ -35,7 +35,7 @@
     src="https://readme-typing-svg.herokuapp.com?color=FF0000&height=30&lines=Continuous+Learning..."
     alt="Continuous Learning typing banner" />
 </p>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!------------------------- Languages & Tools Section ------------------------>
 
 <h2 align="center">🛠️ Tech Stack & Toolbox</h2>
@@ -96,10 +96,9 @@
 </div>
 <br>
   <br>
-  <hr>
 <!------------------------- Github status Section ------------------------>
   
-<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"> 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
@@ -115,7 +114,7 @@
 
 <br>
 
-<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!------------------------- Connect with me ------------------------>
 <h2 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>🔗 Connect with me:</h2>  <br>
