@@ -18,7 +18,7 @@
 
 <hr>
 
-<!-- About Me -->
+<!------------------------- About me Section ------------------------>
 <h2>👨‍💻 About Me</h2>
 <ul>
   <li>🎓 Computer Science Undergraduate at Saegis Campus</li>
@@ -31,6 +31,8 @@
 </ul>
 
 <hr>
+<!------------------------- Languages & Tools Section ------------------------>
+
 <h2 align="center">🛠️ Tech Stack & Toolbox</h2>
 <div align="center">
   <table width="100%">
@@ -90,13 +92,26 @@
 <br>
   <br>
   <hr>
+<!------------------------- Github status Section ------------------------>
   
-| ![Kaveeesha's github stats](https://github-readme-stats.vercel.app/api?username=Kaveesha-2001&show_icons=true&theme=tokyonight) | ![Kaveesha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaveesha-2001&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha-2001&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Kaveesha-2001&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
+
+<h2 align="center"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  GitHub Status 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+</h2>
 
 <br>
-<hr>
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Kaveesha-2001" alt="GitHub Insights" />
+</p>
+
+<br><br>
+
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
+<!------------------------- Connect with me ------------------------>
 <h2 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>🔗 Connect with me:</h2>  <br>
 
 <p align="center">
