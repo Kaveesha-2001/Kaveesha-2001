@@ -109,7 +109,7 @@
 <br>
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Kaveesha-2001" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=Kaveesha-2001&hide=Jupyter%20Notebook" alt="GitHub Insights" />
 </p>
 
 <br>
