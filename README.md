@@ -92,7 +92,7 @@
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Tools & Environments</b></td>
+        <td align="center"><b>Other Tools</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=figma,postman,git,github" />
         </td>
