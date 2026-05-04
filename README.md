@@ -21,8 +21,6 @@
   <li>🎓 Computer Science Undergraduate at Saegis Campus</li><br>
   <li>💡 Passionate about extracting insights from data and building Predictive Models</li><br>
   <li>🤖 Currently deep-diving into **Machine Learning** and **Artificial Intelligence**</li><br>
-  <li>🏗️ Learning the ropes of **Data Engineering** to build robust data pipelines</li><br>
-  <li>📈 Experienced in creating interactive dashboards using **Power BI**</li><br>
   <li>🐍 Strong foundation in **Python** (Pandas, NumPy, Matplotlib, Seaborn) and **R**</li><br>
   <li>🤝 Open to collaboration on data-driven projects and open-source contributions</li>
 </ul>
