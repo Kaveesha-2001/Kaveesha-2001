@@ -57,13 +57,24 @@
         <td align="center"><b>Web Development</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" height="40" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Data Analysis</b></td>
+        <td align="center"><b>Data Science & ML</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=py,scikit-learn" />
-          <i>Pandas, NumPy, Matplotlib, Seaborn</i>
+          <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch" />
+          <br>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="25" />
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="25" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>Data Visualization</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" height="25" />
+          <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat&logo=seaborn&logoColor=white" height="25" />
+          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="25" />
         </td>
       </tr>
       <tr>
@@ -73,21 +84,17 @@
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Business Intelligence</b></td>
+        <td align="center"><b>Environments</b></td>
         <td>
-          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="40" />
+          <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="40" />
+          <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="40" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>ML & Engineering</b></td>
+        <td align="center"><b>Tools & Environments</b></td>
         <td>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><b>Other Tools</b></td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git" />
+          <img src="https://skillicons.dev/icons?i=figma,postman,git,github" />
         </td>
       </tr>
     </tbody>
